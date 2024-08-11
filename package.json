@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_lts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanujsahu/nodejs_lts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanujsahu/nodejs_lts/issues"
+  },
+  "homepage": "https://github.com/tanujsahu/nodejs_lts#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
