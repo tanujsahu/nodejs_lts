@@ -12,12 +12,6 @@ Download and install the Node.js LTS (Long Term Support) version from the [offic
    mkdir my-express-project
    cd my-express-project
 
-
-### 2. `create-server.md`
-
-```markdown
-# Creating the Server File
-
 ## Step 1: Create `server.js`
 
 1. In the root of your project directory, create a new file named `server.js`.
