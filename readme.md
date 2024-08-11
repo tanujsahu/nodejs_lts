@@ -143,17 +143,18 @@ Download and install the Node.js LTS (Long Term Support) version from the [offic
 
 # Project structure
 
-project-root/
-│
-├── controllers/
-│   ├── itemsController.js
-│   ├── usersController.js
-│
-├── routes/
-│   ├── index.js
-│   ├── items.js
-│   ├── users.js
-│
-├── server.js
-├── package.json
-└── node_modules/
+      project-root/
+
+      │
+      ├── controllers/
+      │   ├── itemsController.js
+      │   ├── usersController.js
+      │
+      ├── routes/
+      │   ├── index.js
+      │   ├── items.js
+      │   ├── users.js
+      │
+      ├── server.js
+      ├── package.json
+      └── node_modules/
