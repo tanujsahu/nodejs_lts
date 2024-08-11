@@ -139,3 +139,21 @@ Download and install the Node.js LTS (Long Term Support) version from the [offic
       400 Bad Request: Indicates that the request contains invalid or missing data.
 
       404 Not Found: Indicates that the requested item does not exist.
+
+
+# Project structure
+
+project-root/
+│
+├── controllers/
+│   ├── itemsController.js
+│   ├── usersController.js
+│
+├── routes/
+│   ├── index.js
+│   ├── items.js
+│   ├── users.js
+│
+├── server.js
+├── package.json
+└── node_modules/
